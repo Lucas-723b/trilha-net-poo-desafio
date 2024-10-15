@@ -5,5 +5,7 @@ namespace DesafioPOO.Models
     public class Nokia
     {
         InstalarAplicativo = instalaraplicativo;
+        Numero = numero;
+        Smartphone = smartphone;
     }
 }
