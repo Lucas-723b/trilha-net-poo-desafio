@@ -1,8 +1,9 @@
 namespace DesafioPOO.Models
 {
-    // TODO: Herdar da classe "Smartphone"
+    Modelo = modelo;
+    IMEI= imei;
     public class Nokia
     {
-        // TODO: Sobrescrever o método "InstalarAplicativo"
+        InstalarAplicativo = instalaraplicativo;
     }
 }
