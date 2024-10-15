@@ -4,6 +4,8 @@ namespace DesafioPOO.Models
    IMEI= imei;
     public class Iphone
     {
-        InstalarAplicativo = instalaraplicativo;
+       InstalarAplicativo = instalaraplicativo;
+       Numero = numero;
+       Smartphone = smartphone;
     }
 }
